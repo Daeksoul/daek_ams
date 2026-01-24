@@ -9,7 +9,7 @@ Use /ams or /motionsick to toggle the overlay on/off.
 
 # CREDITS
 1. Blizzard (World of Warcraft) for the Anti-Motion Sickness circle idea - recreated it myself with the same layout, as it works.
-2. My wife, for giving me the idea of creating the script for it, based on the above as it works for her in WoW.
+2. My wife, for giving me the idea of creating the script for it, based on the above, as it works for her in WoW.
 
 # INSTALLATION
 1. Create new folder 'daek_ams' in your [standalone] folder
