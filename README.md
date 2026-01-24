@@ -12,7 +12,8 @@ Use /ams or /motionsick to toggle the overlay on/off.
 2. My wife, for giving me the idea of creating the script for it, based on the above as it works for her in WoW.
 
 # INSTALLATION
-1. Add to your [Standalone] folder.
-2. Add 'ensure daek_ams' to your server.cfg
-3. ???
-4. Profit (*no more motion sickness, hopefully!*)
+1. Create new folder 'daek_ams' in your [standalone] folder
+2. Add files to 'daek_ams' folder.
+3. Add 'ensure daek_ams' to your server.cfg
+4. ???
+5. Profit (*no more motion sickness, hopefully!*)
