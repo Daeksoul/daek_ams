@@ -1,0 +1,38 @@
+/* style.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none; /* don't block input */
+  z-index: 99999;
+}
+
+#overlay.hidden {
+  display: none;
+}
+
+/* Make the image cover the screen while preserving aspect ratio.
+   This ensures the 1920x1080 image scales to any resolution. */
+#overlay img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover; /* cover ensures no black bars and fills screen */
+  image-rendering: auto;
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: none;
+}
