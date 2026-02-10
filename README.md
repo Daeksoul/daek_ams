@@ -17,3 +17,9 @@ Use /ams or /motionsick to toggle the overlay on/off.
 3. Add 'ensure daek_ams' to your server.cfg
 4. ???
 5. Profit (*no more motion sickness, hopefully!*)
+
+# ADDITIONAL INFO
+If you do decide to use this on your server, please let me know - I'd love to hear if this helps you/any of your players!
+
+SERVERS CURRENTLY USING THIS SCRIPT:
+    -YellaBelly RP - https://www.yellabellyroleplay.com/
