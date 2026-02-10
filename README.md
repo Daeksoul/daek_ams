@@ -19,7 +19,8 @@ Use /ams or /motionsick to toggle the overlay on/off.
 5. Profit (*no more motion sickness, hopefully!*)
 
 # ADDITIONAL INFO
-If you do decide to use this on your server, please let me know - I'd love to hear if this helps you/any of your players!
+If you do decide to use this on your server, please let me know - I'd love to hear if this helps you/any of your players!<br/>
+Feel free to open an Issue with your server name/server website and any additional details regarding the use of the script.
 
 SERVERS CURRENTLY USING THIS SCRIPT:<br/>
     -YellaBelly RP - https://www.yellabellyroleplay.com/
