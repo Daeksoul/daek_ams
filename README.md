@@ -21,5 +21,5 @@ Use /ams or /motionsick to toggle the overlay on/off.
 # ADDITIONAL INFO
 If you do decide to use this on your server, please let me know - I'd love to hear if this helps you/any of your players!
 
-SERVERS CURRENTLY USING THIS SCRIPT:
+SERVERS CURRENTLY USING THIS SCRIPT:<br/>
     -YellaBelly RP - https://www.yellabellyroleplay.com/
